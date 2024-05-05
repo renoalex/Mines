@@ -9,7 +9,7 @@ std::string table[25];
 
 void Setup() {
     system("clear");
-    srand(time(0));
+    srand(time(nullptr));
     mine = rand() % 26;
     val = 0;
     for (int i = 0; i < 5; i++) {
