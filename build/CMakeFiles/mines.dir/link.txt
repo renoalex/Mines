@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mines.dir/main.cpp.o -o mines 

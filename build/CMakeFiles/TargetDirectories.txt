@@ -1,0 +1,3 @@
+/home/renozz/Desktop/dev/c++/mines/build/CMakeFiles/mines.dir
+/home/renozz/Desktop/dev/c++/mines/build/CMakeFiles/edit_cache.dir
+/home/renozz/Desktop/dev/c++/mines/build/CMakeFiles/rebuild_cache.dir
